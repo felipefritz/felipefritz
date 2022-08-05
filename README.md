@@ -22,7 +22,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefritz&show_icons=true)
+
 
 
 
@@ -30,8 +30,11 @@
 
 -(Currently I am an employe in a dev company, so my current github account is an enterprice account):
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipefritz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefritz&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/felipefritz/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipefritz&theme=dark&background=000000&show_icons=true)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefritz&theme=dark&background=000000&show_icons=true)](https://github.com/felipefritz/github-readme-stats)
 
 
 ### 📫 How to reach me: 
