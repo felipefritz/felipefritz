@@ -22,7 +22,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefritz&layout=compact&theme=vision-friendly-dark)](https://github.com/felipefritz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefritz&show_icons=true)
+
 
 
 ### :fire: My Stats 
